@@ -40,3 +40,25 @@
 
 Создано изменение в файле README.
 ![Изменение](C:\Users\mymai\LR6\img\Screenshot_15.png)
+
+Создание коммита на новые изменения.
+![Коммит на изменения](C:\Users\mymai\LR6\img\Screenshot_16.png)
+
+Создан файл main.cpp и соответствующий ему коммит.
+![Файл main.cpp](C:\Users\mymai\LR6\img\Screenshot_18.png)
+![Коммит для повторных изменений](C:\Users\mymai\LR6\img\Screenshot_17.png)
+
+Были просмотренны изменения.
+![Новые изменения и коммиты](C:\Users\mymai\LR6\img\Screenshot_19.png)
+
+Отменен коммит.
+![Отмена коммита](C:\Users\mymai\LR6\img\Screenshot_20.png)
+
+Создание ветки отчета.
+![Создание ветки отчета](C:\Users\mymai\LR6\img\Screenshot_21.png)
+
+Скриншот окна внешнего редактора visual code studio.
+![Скриншот окна редактора](C:\Users\mymai\LR6\img\Screenshot_22.png)
+
+История операций в форматированном виде.
+![История операций](C:\Users\mymai\LR6\img\Screenshot_23.png)
